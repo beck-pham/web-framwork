@@ -1,4 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "beck pham",
+      "age": 20,
+      "id": 1
+    }
+  ]
 }
-
